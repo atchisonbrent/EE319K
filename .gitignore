@@ -5,3 +5,7 @@
 *.iex
 *.crf
 *.tra
+*.lnp
+*.dep
+*.d
+*.lst
